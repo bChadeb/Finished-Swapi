@@ -1,0 +1,16 @@
+body {
+    color: gold;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+#getResidentsBtn {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+button:active {
+    transform: scale(0.9, 0.9);
+    transition: 0.5s;
+}
